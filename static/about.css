@@ -1,0 +1,185 @@
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-200);
+  width: 1440px;
+  height: 148px;
+}
+.blog,
+.home1 {
+  position: absolute;
+  top: 44px;
+  left: 484px;
+  display: inline-block;
+  width: 150px;
+  height: 39px;
+}
+.home1 {
+  left: 316px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 180px;
+  height: 49px;
+}
+.encryptia2,
+.vector-parent {
+  position: absolute;
+  top: 9.5px;
+  left: 39px;
+}
+.vector-parent {
+  top: 45.5px;
+  left: 1182px;
+  width: 180px;
+  height: 49px;
+  color: var(--color-black);
+}
+.dreamshaper-v5-a-logo-for-an-e-icon2 {
+  position: absolute;
+  top: 0;
+  left: 99px;
+  width: 172px;
+  height: 137px;
+  object-fit: cover;
+}
+.group-div {
+  position: absolute;
+  top: 41px;
+  left: 0;
+  width: 1440px;
+  height: 148px;
+  color: var(--color-whitesmoke);
+}
+.thumbnail-5b8b450c1677680c0acc-icon {
+  position: absolute;
+  top: 200px;
+  left: 0;
+  width: 2087px;
+  height: 1774px;
+  object-fit: cover;
+  opacity: 0.25;
+}
+.blowfish,
+.symmetric-key-algorithm-with {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 532px;
+  height: 76px;
+}
+.symmetric-key-algorithm-with {
+  top: 63px;
+  width: 528px;
+  height: 179px;
+}
+.blowfish-parent {
+  position: absolute;
+  top: 1687px;
+  left: 431px;
+  width: 532px;
+  height: 242px;
+}
+.aes-advanced-encryption-stand-parent,
+.rsa-rivest-shamir-adleman-parent {
+  position: absolute;
+  top: 1000px;
+  left: 105px;
+  width: 532px;
+  height: 242px;
+}
+.rsa-rivest-shamir-adleman-parent {
+  left: 772px;
+}
+.hd-wallpaper-3d-blue-padlock-c-icon,
+.hd-wallpaper-3d-neon-blue-lock-icon {
+  position: absolute;
+  top: 554px;
+  left: 105px;
+  width: 559px;
+  height: 393px;
+  object-fit: cover;
+}
+.hd-wallpaper-3d-blue-padlock-c-icon {
+  left: 772px;
+  width: 560px;
+}
+.welcome-to-encryptia {
+  margin: 0;
+  font-size: var(--font-size-13xl);
+}
+.your-trusted-destination {
+  margin: 0;
+}
+.welcome-to-encryptia-container {
+  position: absolute;
+  top: 255px;
+  left: 43px;
+  display: inline-block;
+  width: 1342px;
+  height: 311px;
+}
+.hd-wallpaper-blue-3d-chip-tech-icon {
+  position: absolute;
+  top: 1233px;
+  left: 431px;
+  width: 577px;
+  height: 410px;
+  object-fit: cover;
+}
+.group-child1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-midnightblue-100);
+  width: 1801.22px;
+  height: 144px;
+}
+.dreamshaper-v5-a-logo-for-an-e-icon3 {
+  position: absolute;
+  top: 3px;
+  left: 804px;
+  width: 212.05px;
+  height: 137px;
+  object-fit: cover;
+}
+.encryptia-all-rights-container1 {
+  position: absolute;
+  top: 31px;
+  left: 1272px;
+  display: inline-block;
+  width: 569.59px;
+  height: 109px;
+}
+.rectangle-parent1 {
+  position: absolute;
+  top: 2072px;
+  left: -190px;
+  width: 1841.59px;
+  height: 144px;
+  font-size: var(--font-size-base);
+}
+.desktop-3 {
+  position: relative;
+  background-color: var(--color-midnightblue-200);
+  width: 100%;
+  height: 2216px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-inria-sans);
+}
+a{
+  text-decoration: none;
+  color: #F5F5F5;
+font-family: Inria Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
